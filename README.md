@@ -1,4 +1,4 @@
-# Programming-Principle
+# Programming-Principle Final Assignment
 # EduTrack 🎓  
 **Student Assignment, Attendance, and Timetable Management System**
 
